@@ -70,5 +70,23 @@ public partial class MainWindow : Window
         //{
         //    return Math.Pow(a * b, 3);
         //}
+
+
+        // №26
+        //    double num1 = 6.0;
+        //    double num2 = 2.0;
+        //    double cubeQuotientOfDoubles = CubeQuotientOfDoubles(num1, num2);
+        //    MessageBox.Show("Cube of Quotient of Doubles: " + cubeQuotientOfDoubles);
+        //}
+        //static double CubeQuotientOfDoubles(double a, double b)
+        //{
+        //    if (b == 0)
+        //    {
+        //        MessageBox.Show("Division by zero is not allowed");
+        //        return 0;
+        //    }
+        //    double quotient = a / b;
+        //    return Math.Pow(quotient, 3);
+        //}
     }
 }
